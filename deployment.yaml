@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: java
-        image: surekamani/java:4
+        image: surekamani/java:5
 
 ---
 apiVersion: v1
